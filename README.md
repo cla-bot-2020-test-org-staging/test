@@ -1,2 +1,1 @@
-init
-test
+Complete overhaul of the readme content
